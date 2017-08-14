@@ -1,0 +1,10 @@
+Error, ts, msg1
+Warn, ts, msg2
+Error, ts, msg1
+Info, ts, msg8
+Error, ts, msg3
+Info, ts, msg5
+Info, ts, msg5
+Error, ts, msg4
+Warn, ts, msg9
+Error, ts, msg1

@@ -1,0 +1,3 @@
+Scala, short for Scalable Language, is a hybrid functional programming language.
+Scala smoothly integrates features of object-oriented and
+functional language. Scala is compiled to run on the Java Virtual Machine
